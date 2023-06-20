@@ -86,7 +86,7 @@ func (c *Client) GetCurrency(currencyCode string) (responses.Currency, error) {
 	return result, nil
 }
 
-// get current exchange rate
+// get exchange rate by date
 // base - currency code that will be used as base converting other currencies
 // date - date at which exchange rate is searching for YYYY-MM-DD
 // currencies - list of currencies that you want to get exchange value. if want to get all of them just pass empty array
