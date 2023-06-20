@@ -4,7 +4,7 @@ sdk for fetching https://currencybeacon.com/
 ## How to install?
 `go get github.com/zardan4/currencybeacon-sdk-go`
 
-`import 	"github.com/zardan4/currencybeacon-sdk-go/client"`
+`import "github.com/zardan4/currencybeacon-sdk-go/client"`
 #### USE!
 
 ## Methods
